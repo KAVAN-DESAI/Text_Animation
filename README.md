@@ -1,4 +1,4 @@
 # Text_Animation
-Text is animated using java-script, and some basic html
+* Text animation using JAVA-SCRIPT, and some basic HTML
 
-Copyrights to sourced website
+* Copyrights to sourced website
